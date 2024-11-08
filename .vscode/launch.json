@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/PHITRON/Assignments/assignment-1",
-      "program": "d:/PHITRON/Assignments/assignment-1/build/Debug/outDebug",
+      "cwd": "d:/PHITRON/Assignments/assignment-1/fifth-contest",
+      "program": "d:/PHITRON/Assignments/assignment-1/fifth-contest/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
